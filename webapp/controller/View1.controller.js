@@ -4,8 +4,7 @@ sap.ui.define([
 	"use strict";
 
 	return Controller.extend("test.controller.View1", {
-
+		
 	});
 });
-
-//Moien Jordan !
+// Moien Jordan !!!!!!
